@@ -1,0 +1,7 @@
+{
+  "name": "LuciaFS",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
